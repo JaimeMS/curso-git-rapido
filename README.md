@@ -69,12 +69,4 @@ touch .gitignore
 
 git remote -v //mostra os repositórios remotos
 
-FAZENDO DOWNLOAD DO GITHUB
 
-git clone https://github.com/JaimeMS/curso-git-rapido.git
-
-1. init
-2. adiciona arquivos na pilha de commit
-3. faz o commit
-4. faz o pull
-5. faz o push
